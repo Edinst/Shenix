@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('image/bac3.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh; /* Menentukan tinggi elemen 'body' 100% dari tinggi viewport */
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.settings {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  margin-right: 10px;
+}
