@@ -1,0 +1,13 @@
+{
+  "name": "shenix-company",
+  "version": "1.0.0",
+  "description": "new official website",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edinst",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
